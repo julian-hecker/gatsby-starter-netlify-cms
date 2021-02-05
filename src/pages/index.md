@@ -1,21 +1,19 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Coffee Grounds to mix with your food!
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Coffee Grounds to mix with your dinner.
+subheading: Suffer a lot while you drink up!
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Whomst’ve consumed’ve withoutn’t’ve covfefe shalt rapidly perish
+  description: wadda wada awoifn awnfu awoinoa waoifau awof awfouafawguboawg
+    awogua wo aowuwaoudnawgo aowauawogunaowgubvaw vieu vskgsye uawygfukafk
+    kajkwycgug aukeyguy ckjawcv jawhvbfjkawyagfgjkawyfvajhvajkwfgvajkfyg ajk
+    fyvajk f vajk wyf jk aw fajk wyafk awfvajsbvfajkwf
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
